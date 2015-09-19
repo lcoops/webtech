@@ -3,3 +3,6 @@ http://openhome.cc/Gossip/
 
 J2EE学习初阶资源（适合新人）:
 http://www.jianshu.com/p/1722dbf4c7aa
+
+//2014 年度 Git@OSC 最热门的 50 个项目
+http://www.oschina.net/news/58727/2014-top-50-gitosc-projects
